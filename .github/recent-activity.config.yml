@@ -1,0 +1,11 @@
+settings:
+  username: "henilptel"
+  commit_username: "readme-bot"
+  commit_email: "action@github.com"
+  commit_msg: "⚡ Update recent activity"
+  max_lines: 5
+  readme_file: "./README.md"
+  url_text: "{REPO}{ID}"
+  date:
+    text: ""
+    timezone: "UTC"
